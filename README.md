@@ -19,7 +19,7 @@
 
 ### 2. Sales Forecasting (Time Series)
 - Forecasting monthly sales using ARIMA & Prophet  
-- [🔗 View Repository](https://github.com/your-username/sales-forecasting)
+- [🔗 View Repository](https://github.com/SeifAbdelrazek/time-series-forecasting)
 
 ### 3. Sentiment Analysis on Reviews
 - NLP project analyzing product reviews  
