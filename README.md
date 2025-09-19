@@ -15,7 +15,7 @@
 ### 1. Customer Churn Prediction
 - Predicting customer churn using classification models  
 - Tools: Python, Pandas, Scikit-learn  
-- [🔗 View Repository](https://github.com/your-username/churn-prediction)
+- [🔗 View Repository](https://github.com/SeifAbdelrazek/customer-churn-prediction)
 
 ### 2. Sales Forecasting (Time Series)
 - Forecasting monthly sales using ARIMA & Prophet  
