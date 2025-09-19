@@ -34,7 +34,7 @@
 ## 📫 How to reach me
 - LinkedIn: [https://www.linkedin.com/in/seif-eldin-404a87240/](https://www.linkedin.com/in/seif-eldin-404a87240/)  
 - Email: **eldinsafe@gmail.com**  
-- Portfolio: [GitHub Repos](https://github.com/your-username)
+- Portfolio: [GitHub Repos](https://github.com/SeifAbdelrazek)
 
 ---
 ⭐️ *Check my repos below for more projects and feel free to contribute or connect!*
