@@ -1,20 +1,40 @@
-👩🏻‍🎓 Studied Data Science [at the University of Alexandria, Egypt](https://fcds.alexu.edu.eg/index.php/ar/) </br>
-# Hi, I'm Seif 👋
+# Hi there, I'm Seif Eldin 👋  
 
-🎯 **Data Scientist | Machine Learning | Python & SQL**
+🎯 **Data Scientist | Machine Learning | Data Analysis**  
 
-- 🔭 I’m working on: Data Science projects (forecasting, NLP, deployment)
-- 🛠️ Tech: Python, pandas, scikit-learn, PyTorch, SQL, FastAPI, Streamlit
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | seif@example.com
-
----
-
-## 🚀 Featured Projects
-- [Project 1: Sales Forecasting](#) — Time series analysis & ML models for sales predictions.
-- [Project 2: NLP Text Classifier](#) — Sentiment analysis using BERT.
-- [Project 3: Computer Vision](#) — Image classification with PyTorch.
+- 📊 Skilled in **Python, Pandas, NumPy, SQL, Power BI**  
+- 🤖 Experience with **Machine Learning (scikit-learn, TensorFlow basics)**  
+- 📈 Building dashboards and turning data into actionable insights  
+- 🛠️ Strong background in **Customer Service & Communication** → able to translate business needs into data tasks  
+- 🌱 Currently improving skills in **NLP & Deep Learning**  
 
 ---
 
-⭐️ From [Seif Abdelrazek](https://github.com/seif-abdelrazek)
+## 🔥 Projects Showcase
 
+### 1. Customer Churn Prediction
+- Predicting customer churn using classification models  
+- Tools: Python, Pandas, Scikit-learn  
+- [🔗 View Repository](https://github.com/your-username/churn-prediction)
+
+### 2. Sales Forecasting (Time Series)
+- Forecasting monthly sales using ARIMA & Prophet  
+- [🔗 View Repository](https://github.com/your-username/sales-forecasting)
+
+### 3. Sentiment Analysis on Reviews
+- NLP project analyzing product reviews  
+- [🔗 View Repository](https://github.com/your-username/sentiment-analysis)
+
+### 4. Power BI Dashboard
+- Interactive dashboard for sales & customers  
+- [🔗 View Repository](https://github.com/your-username/powerbi-dashboard)
+
+---
+
+## 📫 How to reach me
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- Email: **eldinsafe@gmail.com**  
+- Portfolio: [GitHub Repos](https://github.com/your-username)
+
+---
+⭐️ *Check my repos below for more projects and feel free to contribute or connect!*
