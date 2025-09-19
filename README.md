@@ -32,7 +32,7 @@
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- LinkedIn: [https://www.linkedin.com/in/seif-eldin-404a87240/](https://www.linkedin.com/in/seif-eldin-404a87240/)  
 - Email: **eldinsafe@gmail.com**  
 - Portfolio: [GitHub Repos](https://github.com/your-username)
 
