@@ -23,7 +23,7 @@
 
 ### 3. recommendation System
 - films recommendation system  
-- [🔗 View Repository](https://github.com/your-username/sentiment-analysis)
+- [🔗 View Repository](https://github.com/SeifAbdelrazek/recommendation-system/tree/main)
 
 ### 4. Power BI Dashboard
 - Interactive dashboard for sales & customers  
