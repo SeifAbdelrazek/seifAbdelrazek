@@ -3,10 +3,10 @@
 🎯 **Data Scientist | Machine Learning | Data Analysis**  
 
 - 📊 Skilled in **Python, Pandas, NumPy, SQL, Power BI**  
-- 🤖 Experience with **Machine Learning (scikit-learn, TensorFlow basics)**  
+- 🤖 Experience with **Machine Learning (scikit-learn, TensorFlow)**  
 - 📈 Building dashboards and turning data into actionable insights  
 - 🛠️ Strong background in **Customer Service & Communication** → able to translate business needs into data tasks  
-- 🌱 Currently improving skills in **NLP & Deep Learning**  
+ 
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 4. Power BI Dashboard
 - Interactive dashboard for sales & customers  
-- [🔗 View Repository](https://github.com/your-username/powerbi-dashboard)
+- [🔗 View Repository](https://github.com/SeifAbdelrazek/Power-BI-Dashboard)
 
 ---
 
