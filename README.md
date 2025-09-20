@@ -21,8 +21,8 @@
 - Forecasting monthly sales using ARIMA & Prophet  
 - [🔗 View Repository](https://github.com/SeifAbdelrazek/time-series-forecasting)
 
-### 3. Sentiment Analysis on Reviews
-- NLP project analyzing product reviews  
+### 3. recommendation System
+- films recommendation system  
 - [🔗 View Repository](https://github.com/your-username/sentiment-analysis)
 
 ### 4. Power BI Dashboard
